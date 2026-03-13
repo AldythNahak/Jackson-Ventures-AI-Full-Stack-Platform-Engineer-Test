@@ -24,12 +24,13 @@ Part 3 — Feature Prioritization
 
 ## 🎨 Figma Prototype
 The prototype for AI Pitch Deck Analyzer is available via Figma:
+
 👉 Figma Prototype Link:
-[INSERT YOUR FIGMA LINK HERE]
+https://www.figma.com/make/YPgEsqdWLsDkxVtr7R1JOo/Pitch-Deck-Analysis-Screens?t=osnv1XmRIP3vv11D-1
 
 The prototype demonstrates the core user flow and product concept through low-fidelity wireframes.
 
-###Prototype Screens
+## Prototype Screens
 The Figma file includes:
 1. Upload Pitch Deck screen
 2. AI Processing state
